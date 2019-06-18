@@ -3,9 +3,9 @@
     "hostR" : "https://pay.zhongfeipay.com/",
     "hostRc" : "https://pay.zhongfeipay.com/",
     "hostBeta" : "https://pay.zhongfeipay.com/",
-    "versionName" : "1.6.9.0611",
-    "versionCode" : 106090613,
-    "upgradeUrl" : "https://gitlab.com/gardner926/zfpay/raw/master/RC/ZFF_1.6.9.0610_RC.apk",
+    "versionName" : "1.7.0.0618",
+    "versionCode" : 107000618,
+    "upgradeUrl" : "https://gitlab.com/gardner926/zfpay/blob/master/R/ZFF_1.7.0.0618_R.apk",
     "upgradeDesc" : "",
     "forceUpgrade" : false
 }
