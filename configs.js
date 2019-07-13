@@ -1,6 +1,6 @@
 {
     "hostR" : "https://pay.zhongfeipay.com/",
-    "hostRc" : "http://dev-xpay.proxy.koudaiplus.com/xpay/",
+    "hostRc" : "https://pay.zhongfeipay.com/",
     "hostBeta" : "https://pay.zhongfeipay.com/",
     "about" : "https://github.com/huyquan/pmt",
     "smsHost" : "https://raw.githubusercontent.com/zff27/api/master/sms.js",
