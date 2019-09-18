@@ -6,7 +6,7 @@
     "smsHost" : "https://raw.githubusercontent.com/zff27/api/master/sms.js",
     "versionName" : "1.7.8.0917",
     "versionCode" : 107080917,
-    "upgradeUrl" : "https://github.com/zff27/source/blob/master/ZFF_1.7.8.0917_Beta.apk",
+    "upgradeUrl" : "https://raw.githubusercontent.com/zff27/source/master/ZFF_1.7.8.0917_Beta.apk",
     "upgradeDesc" : "",
     "forceUpgrade" : false,
     "forceDelay" : false
