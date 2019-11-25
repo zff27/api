@@ -9,5 +9,5 @@
     "upgradeUrl" : "https://raw.githubusercontent.com/zff27/source/master/ZFF_1.7.9.0924_R.apk",
     "upgradeDesc" : "",
     "forceUpgrade" : false,
-    "forceDelay" : false
+    "forceDelay" : true
 }
